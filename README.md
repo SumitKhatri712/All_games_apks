@@ -10,3 +10,6 @@ just a pong game with vs AI and 2 player mode.
 
 Cubey:
 A endless dodge obstacle made with unity and brackeys tutorial on youtube.
+
+Tap Counter:
+Saw a app on playstore named tap counter and re-made it.
